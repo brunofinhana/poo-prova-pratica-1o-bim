@@ -1,0 +1,17 @@
+LINK DO DIAGRAMA DE CLASSES
+https://lucid.app/lucidchart/e426a3cb-e379-4ba4-854c-6f527565c1fc/edit?viewport_loc=-3464%2C-987%2C3716%2C1755%2C0_0&invitationId=inv_51d01d5b-e346-4435-9e1d-ea5c76dc0d9a
+
+CHECK LIST
+[]
+
+Concluidos
+[x] Implementar as Exceptions
+[x] Realizar revisão geral
+[x] Criar Testes para cada classe
+[x] Criar classes de pessoa (Pessoa, PF e PJ)
+[x] Vincular classes (pessoa abre / cria conta)
+[x] Criar classe conta conjunta
+[x] Consertar os diversos erros causados pela criação das classes de pessoa e banco
+[x] Criar respectivos ENUMS
+[x] Resolver bug metodo deposito conta poupanca (aparcendo outra chamada)
+[x] Criar método de imprimir extrato
